@@ -1,0 +1,15 @@
+{
+    "name": "acer/assets",
+    "autoload": {
+        "psr-4": {
+            "Acer\\Assets\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "you@example.com"
+        }
+    ],
+    "require": {}
+}
